@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="notebook/Data-Cleaning-Analysis.ipynb">View Analysis Notebook</a>
+  <a href="notebook/Data Cleaning.ipynb">View Analysis Notebook</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="dashboard/IBM-Final.pbix">View Power BI Dashboard</a>
+  <a href="dashboard/Dashboard.pbix">View Power BI Dashboard</a>
 </p>
 
 ---
