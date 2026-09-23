@@ -11,11 +11,7 @@
   exploring, visualizing, and understanding UFO sighting data.
 </p>
 
-<p align="center">
-  <a href="notebook/Data Cleaning.ipynb">View Analysis Notebook</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="dashboard/Dashboard.pbix">View Power BI Dashboard</a>
-</p>
+
 
 ---
 
